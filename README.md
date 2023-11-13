@@ -1,18 +1,6 @@
-## Getting Started
+# Results Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a sample java project that creates a results template on the terminal that emulates the results slip from a university department. The program accepts user input for: unit code for four units and the marks obtained by the student in the different four units. The progam then goes ahead to calculate the total and average and gives recommendation based on the total and the average.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Sample output
+![Sample Output](https://github.com/EvansMungai/result/assets/69681950/52dde21d-8d96-487a-af44-017b55268ec0)
